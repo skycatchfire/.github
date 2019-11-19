@@ -1,5 +1,5 @@
 ## Trello Card(s)
 
-## What was fixed?
+## What was updated?
 
-## Screenshots of fix (visual changes)
+## Screenshots of updates (visual changes)
