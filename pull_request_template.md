@@ -2,4 +2,4 @@
 
 ## What was updated?
 
-## Screenshots of updates (visual changes)
+## Screenshots/Videos of updates (visual changes)
